@@ -28,7 +28,8 @@ DEBUG = True
 ALLOWED_HOSTS = []
 
 CSRF_TRUSTED_ORIGINS = [
-    "https://localhost:8000"
+    "https://localhost:8000",
+    "https://django-o6ll.onrender.com"
 ]
 
 
